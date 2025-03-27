@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklivego"]=self["webpackChunklivego"]||[]).push([[5132],{5132:function(e,i,r){r.r(i),r.d(i,{default:function(){return s}});var t=function(){var e=this,i=e.$createElement,r=e._self._c||i;return r("div")},l=[],a={name:"userVideo",created(){this.$isMobile()?location.replace("/liveStream/userVideoMobile/"+this.$route.params.id):location.replace("/liveStream/userVideoPc/"+this.$route.params.id)}},u=a,n=r(1001),o=(0,n.Z)(u,t,l,!1,null,null,null),s=o.exports}}]);
+//# sourceMappingURL=5132.29e26c8d.js.map

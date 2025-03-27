@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklivego"]=self["webpackChunklivego"]||[]).push([[6722],{6722:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("router-view")},l=[],r={name:"liveData",created:function(){}},a=r,c=t(1001),i=(0,c.Z)(a,u,l,!1,null,null,null),f=i.exports}}]);
+//# sourceMappingURL=6722-legacy.fa9403f2.js.map
